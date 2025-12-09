@@ -56,7 +56,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             </div>
             <div className="flex flex-col">
               <span className="text-xl md:text-2xl font-black font-heading tracking-tighter text-white leading-none">
-                APEX
+                MAKEOVER
               </span>
               <span className="text-[10px] md:text-xs font-bold text-primary tracking-[0.2em] uppercase leading-none">
                 Construction
@@ -152,10 +152,10 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             <div className="space-y-6">
               <div className="flex items-center gap-2">
                 <div className="w-8 h-8 bg-primary rounded flex items-center justify-center">
-                    <span className="font-bold text-dark text-lg">A</span>
+                    <span className="font-bold text-dark text-lg">M</span>
                 </div>
                 <span className="text-2xl font-bold font-heading text-white">
-                  APEX<span className="text-primary">CIVIL</span>
+                  MAKE<span className="text-primary">OVER</span>
                 </span>
               </div>
               <p className="text-gray-400 leading-relaxed">
@@ -226,14 +226,14 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                   <div className="p-2 bg-gray-800 rounded-lg text-primary group-hover:bg-primary group-hover:text-white transition-colors">
                     <Mail size={18} />
                   </div>
-                  <a href="mailto:info@apexcivil.com" className="text-gray-400 hover:text-white transition-colors">info@apexcivil.com</a>
+                  <a href="mailto:info@makeover.com" className="text-gray-400 hover:text-white transition-colors">info@makeover.com</a>
                 </li>
               </ul>
             </div>
           </div>
           
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-gray-500 text-sm">
-            <p>&copy; {new Date().getFullYear()} Apex Civil & Construction. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} MAKEOVER Construction. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="hover:text-primary">Privacy Policy</a>
               <a href="#" className="hover:text-primary">Terms of Service</a>

@@ -47,7 +47,7 @@ const OurStory: React.FC = () => {
                <h2 className="text-3xl md:text-4xl font-bold font-heading text-white mb-6">Our Foundation</h2>
                <div className="w-20 h-1 bg-primary mb-8"></div>
                <p className="text-gray-400 text-lg leading-relaxed mb-6">
-                  Founded in 1995, Apex Civil & Construction began with a single mission: to deliver engineering projects that defy expectations. What started as a modest local contractor has evolved into a regional powerhouse.
+                  Founded in 1995, MAKEOVER Construction began with a single mission: to deliver engineering projects that defy expectations. What started as a modest local contractor has evolved into a regional powerhouse.
                </p>
                <p className="text-gray-400 text-lg leading-relaxed mb-10">
                   We believe that every structure tells a story. Whether it's a bridge connecting communities or a skyscraper redefining a skyline, our work is defined by integrity, safety, and an obsession with quality.
@@ -82,7 +82,7 @@ const OurStory: React.FC = () => {
         <div className="container mx-auto px-6 relative z-10">
           <div className="text-center mb-20">
             <span className="text-primary font-bold tracking-widest uppercase mb-2 block">History</span>
-            <h2 className="text-4xl font-bold font-heading text-white">The Apex Timeline</h2>
+            <h2 className="text-4xl font-bold font-heading text-white">The MAKEOVER Timeline</h2>
           </div>
 
           <div className="relative max-w-4xl mx-auto">
